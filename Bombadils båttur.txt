@@ -47,5 +47,12 @@ Gi meg nytt om dype høler der hvor fisk vil vake"
 "Nei, nå", sa Bombadil, "jeg skal bare ro litt mer
 bare kjenne elvas duft, ikke være din kurér"     
 
-‘Tvii-fi! Tøffe Tom! Pass at du ei går under         
+"Tvii-fi! Tøffe Tom! Pass at du ei går under         
 Se opp for pilekratt, og skam på dem som grunner" 
+
+"Hysj på deg, du Isfugl blå! Gi ønsket ditt til skjæra!    | ‘Talk less, Fisher Blue! Keep your kindly wishes!
+Fly nå vekk og rens din drakt, med fiskebein gre fjæra!    | Fly off and preen yourself with the bones of fishes!
+Du er stilig kar på kvist, men hjemme uflidd loffer        | Gay lord on your bough, at home a dirty varlet
+Storslått ildrød vest på bryst, men rot i alle skuffer     | Living in a sloven house, though your basket be scarlet.
+Du har vel hørt at isfuglnebb, som henger slapt i blesten  | I’ve heard of fisher-birds beak in air a-dangling
+Den viser flott når vinden snur: Endt blir fiskefesten!"   | To show how the wind is set: that’s an end of angling!’
