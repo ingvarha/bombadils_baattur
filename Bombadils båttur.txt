@@ -75,7 +75,7 @@ Lugger ryggen din svinepels, så fikk du store-skjelven"     | My fingers on you
 
 "Psssj, Tom Bombadil, Jeg sier det til gamlemor;            | ‘Pish, Tom Bombadil! I’ll go and tell my mother;
 Roper hele slekta inn, far og søster, storebror!            | “Call all our kin to come, father sister, brother!
-'Stakkars Tom, nå er'n sprø, som sivhøne med trebein:       | Tom’s gone mad as a coot with wooden legs: he is paddling
+'Stakkars Tom, nå er'n blitt sprø, som sivhøne med trebein: | Tom’s gone mad as a coot with wooden legs: he is paddling
 Padler ned Vingelstrøm i ei tønne, bredbeint"               | Down Withywindle stream, an old tub a-straddling!”
 
 "Da gir jeg oterpelsen din til haugvetten å garve           | ‘I’ll give your otter-fell to the Barrow-wrights. They’ll taw you!
@@ -87,3 +87,15 @@ Nei, ert du ikke gamle Tom, før du har fått opp farten"     | Nay, don’t tea
 en salve elvevann på Tom, og rugget båten kraftig           | over Tom’s hat and all; set the boat a-swaying,
 dukket under kjølen og, ved bredden lå og vørte             | dived down under it, and by the bank lay peering,
 til Toms muntre sang drev bort, og oteren ikke hørte        | till Tom’s merry song faded out of hearing.
+
+Gamle Svan av Elver-øy seilte stolt til siden               | Old Swan of Elvet-isle sailed past him proudly,
+Sendte Tom et dystert blikk, snøftet hele tiden             | Gave Tom a black look, snorted at him loudly.
+Tom lo: "Du gamle svanefar, savner du ei fjær litt?         | Tom laughed: ‘You old cob, do you miss your feather?
+Gi meg så en ny en da! Den gamle var blitt værbitt          | Give me a new one then! The old was worn by weather.
+Om du og sa noen pene ord, så ville jeg deg prise           | Could you speak a fair word, I would love you dearer:
+men fra din lange hals hovmodig snadrer du din vise         | Long necks and dumb throat, but a haughty sneerer!
+Om en konge atter kommer, oppesen deg finner                | If one day the king returns, in upping he may take you,
+du ringere en herre blir, han nebbet merkebrinner           | Brand your yellow bill, and less lordly make you!’
+Gammelsvanen løftet vinger, hveste, padlet fortere          | Old Swan huffed his wings, hissed, and paddled faster;
+Tom forlatt, duppet litt og rodde langsomt bortetter        | In his wake bobbing on Tom went rowing after.
+
