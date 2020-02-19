@@ -110,3 +110,8 @@ Akt deg Tom! Vi skyter deg, lett med våre piler             | ‘Ware, Tom! We�
 Ei får skogfolk eller skrømt, som i haug hviler             | We don’t let Forest-folk nor bogies from the Barrows
 krysse over Brennvina i nøtteskall eller ferge              | cross over Brandywine by cockle-boat nor ferry’.
 "Fy, små tjukkaser! Dere får ei terge!                      | ‘Fie, little fatbellies! Don’t ye make so merry!
+
+Jeg har sett hobbit-folk gjemme seg i huler                 | I’ve seen hobbit-folk digging holes to hide ‘em,
+Livredd om en geitebukk eller, grevling på dem lurer        | Frightened if a horny gat or a badger eyed ‘em,
+skremt opp av månestråler, redd for egen skygge             | afeared of the moony-beams, their own shadows shunning
+Jeg skal pusse orkene på dere: Ikke føl for trygge           | I’ll call the orcs on you: that’ll send you running!’
