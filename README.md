@@ -1,2 +1,2 @@
 # Bombadils båttur
-Gjendiktning av "Bombadils goes boating" av J.R.R. Tolkien
+Gjendiktning av "Bombadil goes boating" av J.R.R. Tolkien
