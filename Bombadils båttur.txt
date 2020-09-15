@@ -118,8 +118,8 @@ Jeg pusser orkene på dere: Ikke føl for trygge!"            | I’ll call the 
 
 "Rop du bare, Skogmann Tom. Snakk til du mister skjegget.   | ‘You may call, Woodman Tom. And you can talk your beard off.
 Tre piler i din hatt! Vi er ikke redde!                     | Three arrows in your hat! You we’re not afeared of!
-Hvor tar du veien fatt? Hvis det er øl du søker først,      | Where would you go now? If for beer you’re making,
-har Kjerret ei tønner dype nok, til å få deg utørst"        | The barrels ain’t deep enough in Breredon for your slaking!’
+Hvor tar du veien fatt? Vil du ha øl? Dessverre:            | Where would you go now? If for beer you’re making,
+Det er ei tønner dype nok for deg i hele Kjerret"           | The barrels ain’t deep enough in Breredon for your slaking!’
 
 "Forbi over Brennvina, langs Syslebekk går kallet,          | ‘Away over Brandywine by Shirebourn I’ll be going,
 Men alt for sterk er strømmen her for dette nøtteskallet    | but too swift for a cockle-boat the river now is flowing
