@@ -78,7 +78,7 @@ Roper hele slekta inn, far og søster, storebror!            | “Call all our k
 'Stakkars Tom, nå er'n blitt sprø, som sivhøne med trebein: | Tom’s gone mad as a coot with wooden legs: he is paddling
 Padler ned Vingelstrøm i ei tønne, bredbeint"               | Down Withywindle stream, an old tub a-straddling!”
 
-"Da gir jeg oterpelsen din til haugvetten å garve           | ‘I’ll give your otter-fell to the Barrow-wrights. They’ll taw you!
+"Da gir jeg oterpelsen din til haugvetten å garve           | ‘I’ll give your otter-fell to the Barrow-wights. They’ll taw you!
 og dynke den i gullringer, så gamlemor kan skarve           | Then smother you in gold-rings! Your mother if she saw you,
 kjenne egen otergutt, om bare enn på barten                 | She’d never know her son, unless ‘twas by a whisker.
 Nei, ert du ikke gamle Tom, før du har fått opp farten"     | Nay, don’t tease old Tom, until you be far brisker!’
@@ -88,7 +88,7 @@ en salve elvevann på Tom, og rugget båten kraftig           | over Tom’s hat
 dukket under kjølen og, ved bredden lå og vørte             | dived down under it, and by the bank lay peering,
 til Toms muntre sang drev bort, og oteren ikke hørte        | till Tom’s merry song faded out of hearing.
 
-Gamle Svan av Elver-øy seilte stolt til siden               | Old Swan of Elvet-isle sailed past him proudly,
+Gamle Svan av Eltreøy seilte stolt til siden                | Old Swan of Elvet-isle sailed past him proudly,
 Sendte Tom et dystert blikk, snøftet hele tiden             | Gave Tom a black look, snorted at him loudly.
 Tom lo: "Du gamle svanefar, savner du ei fjær litt?         | Tom laughed: ‘You old cob, do you miss your feather?
 Gi meg så en ny en da! Den gamle var blitt værbitt          | Give me a new one then! The old was worn by weather.
@@ -114,7 +114,7 @@ krysse over Brennvina i nøtteskall eller ferge              | cross over Brandy
 Jeg har sett hobbit-folk gjemme seg i huler                 | I’ve seen hobbit-folk digging holes to hide ‘em,
 Livredd om en geitebukk eller, grevling på dem lurer        | Frightened if a horny goat or a badger eyed ‘em,
 skremt opp av månestråler, redd for egen skygge             | afeared of the moony-beams, their own shadows shunning
-Jeg pusser orkene på dere: Ikke føl for trygge!"            | I’ll call the orcs on you: that’ll send you running!’
+Jeg pusser orker på dem: Ikke føl for trygge!"              | I’ll call the orcs on you: that’ll send you running!’
 
 "Rop du bare, Skogmann Tom. Snakk til du mister skjegget.   | ‘You may call, Woodman Tom. And you can talk your beard off.
 Tre piler i din hatt! Vi er ikke redde!                     | Three arrows in your hat! You we’re not afeared of!
@@ -126,7 +126,19 @@ Men alt for sterk er strømmen her for dette nøtteskallet    | but too swift fo
 Signe vil jeg småfolket, tok de meg med i prammen           | I’d bless little folk that took me in their wherry,
 Gi dem mang en fager kveld, og morgen glad på trammen."     | Wish them evenings fair and many mornings merry.’
 
-Rød fløt Bennvina; elva tent i flamme                       | Red flowed the Brandywine; with flame the river kindled
+Rød fløt Brennvina; elva tent i flamme                      | Red flowed the Brandywine; with flame the river kindled
 Mens sola sank bak Hobsyssel, grå ble bark og stamme        | As sun sank beyond the Shire, and then to grey it dwindled.
 Båtstø-vorrene forlatt. Ingen sto og vinket                 | Mithe Steps empty stood. None was there to greet him.
 Stille bak lå Dikevei. "Muntert her!" Tom kvinket           | Silent the Causeway lay. Said Tom: ‘A merry meeting!’
+
+Tom subbet langsetter veien mens det skumret                | Tom stumped along the road, as the light was failing.
+Sivøys lamper glimtet vei. En stemme høylydt humret:        | Rushey lamps gleamed ahead. He heard a voice him hailing
+"Hei der!" Ponnier stoppet, vognhjul gled og stanset        | ‘Whoa there!’ Ponies stopped, wheels halted sliding.
+Tom kikket ikke opp, men rett forbi han danset              | Tom went plodding past, never looked beside him.
+
+"Hoi der! Tiggerfant, myra rundt du iler!                   | ‘Ho there! Beggarman trampling the Marish!
+Hva gjør du her? Med hatten full av piler!                  | What’s your business here? Hat all stuck with arrows!
+Noen jaget deg vekk, så deg mens du spøkte?                 | Someone warned you off, caught you at your sneaking?
+Kom her! Fortell meg hva det er du søkte!                   | Come here! Tell me what it is you’re seeking!
+Syssel-øl, sikkert nok, men du har ei ett øre               | Shire-ale, I’ll be bound, through you’ve not a penny.
+Jeg må løpe rundt og be folk låse kjellerdører"             | I’ll bid them lock their doors, and then you won’t get any!’
