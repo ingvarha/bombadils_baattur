@@ -149,5 +149,5 @@ Feite knøl, du kan ei gå et beite uten pesing               | You old farmer f
 Kjerrefraktet som en sekk, ei hilse uten hvesing            | Cart-drawn like a sack, ought to be more pleasing.
 Gjerrigknark og tønnevom! En tigger kan ei kreve,           | Penny-wise tub-on-legs! A beggar can’t be chooser,
 Ellers fikk du ha deg vekk, og hjem alene streve            | Or else I’d bid you go, and you would be the loser.
-Kom Åmeng! Hjelp meg opp! Du skylder meg et krus nå         | Come, Maggot! Help me up! A tankard now you owe me.
-Selv i skumringslys en gammel venn bør kjennes"             |  Even in cockshut light an old friend should know me!’
+Kom Åmeng! Hjelp meg opp! Et krus til meg er gjelden        | Come, Maggot! Help me up! A tankard now you owe me.
+En gammel venn meg burde kjent, i skumringslys om kvelden   |  Even in cockshut light an old friend should know me!’
