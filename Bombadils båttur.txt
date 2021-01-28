@@ -143,7 +143,7 @@ Kom her! Fortell meg nå hva det er du søkte!                | Come here! Tell 
 Syssel-øl, sikkert nok, men du har ei ett øre               | Shire-ale, I’ll be bound, through you’ve not a penny.
 Jeg må løpe rundt og be folk låse kjellerdører!"            | I’ll bid them lock their doors, and then you won’t get any!’
 
-"Vel, vel, Sølefot, du som ikke passet tiden                | ‘Well. Well, Muddy-feet! From one that’s late for meeting
+"Vel, vel, Sølefot, som ikke passet tiden                   | ‘Well. Well, Muddy-feet! From one that’s late for meeting
 baki der, ved Munningen, bør ei hilse syrlig siden          | away back by the Mithe that’s a surly greeting!
 Feite knøl, du kan ei gå et beite uten pesing               | You old farmer fat that cannot walk for wheezing,
 Kjerrefraktet som en sekk, ei hilse uten hvesing            | Cart-drawn like a sack, ought to be more pleasing.
@@ -152,9 +152,9 @@ Ellers fikk du ha deg vekk, og hjem alene streve            | Or else I’d bid 
 Kom Åmeng! Hjelp meg opp! Et krus til meg er gjelden        | Come, Maggot! Help me up! A tankard now you owe me.
 En gammel venn meg burde kjent, i skumringslys om kvelden   |  Even in cockshut light an old friend should know me!’
 
-Leende de dro i vei, stoppet ei på Sivøy                    | Laughing they drove away, in Rushey never halting,
+Leende de dro i vei, stoppet ei ved Sivøy                   | Laughing they drove away, in Rushey never halting,
 Selv med åpen kro, og lukta sto av malt-øl                  | Though the inn open stood and they could smell the malting.
-Svingte ned Åmengsvei, skranglende og og humpet             | They turned down Maggto’s Lane, rattling and bumping,
+Svingte ned Åmengsvei, mot Åmengs hus de humpet             | They turned down Maggto’s Lane, rattling and bumping,
 Tom om i bondens vogn, danset rund og dumpet                | Tom in the farmer’s cart dancing round and jumping.
-Sjerner skein på Bønnaker, og Åmengs hus det strålte        | Stars shone on Bamfurlong, and Maggot’s house was lighted;
-Bål på kjøkkenpeisen brant, hilste lys til de formørkte     | Fire in the kitchen burned to welcome the benighted.
+Sjerneskinn og lampelys for dem som kom i mørket            | Stars shone on Bamfurlong, and Maggot’s house was lighted;
+Bål på kjøkkenpeisen brant, og velkomst dem besørget        | Fire in the kitchen burned to welcome the benighted.
