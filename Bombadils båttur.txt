@@ -35,7 +35,7 @@ gjennom siv og pilekratt, under henge-or, frem              | through reed and s
 så ned elven mens han sang: "Pilemann du dumme,             | then down the river went singing: ‘Silly-sallow,
 flyt nå Vidjuvingel-strøm, over dyp og grunne"              | Flow withy-willow-stream over deep and shallow!
 
-"Tviii! Tom Bombadil! Hvor er du ror hen,                   | ‘Whee! Tom Bombadil! Whither be you going,                          
+"Tviii! Tom Bombadil! Hvor er du ror hen,                   | ‘Whee! Tom Bombadil! Whither be you going,
 dupper i et nøtteskall, nedad elven hvorhen?"               | bobbing in a cockle-boat, down the river rowing?’
 "Kanskje ned til Brennvina, meg Vidjuvingla sender          | ́Maybe to Brandywine along the Withywindle;
 kanskje noen kjente der et peisbål for meg tenner           | maybe friends of mine fire for me will kindle
@@ -75,7 +75,7 @@ Lugger deg din svinepels, så fikk du store-skjelven"        | My fingers on you
 
 "Psssj, Tom Bombadil, Jeg sier det til gamlemor;            | ‘Pish, Tom Bombadil! I’ll go and tell my mother;
 Roper hele slekta inn, far og søster, storebror!            | “Call all our kin to come, father sister, brother!
-'Stakkars Tom, nå er'n blitt sprø, som sivhøne med trebein: | Tom’s gone mad as a coot with wooden legs: he is paddling
+'Stakkars Tom, nå er'n blitt sprø, som sothøne med trebein: | Tom’s gone mad as a coot with wooden legs: he is paddling
 Padler ned Vingelstrøm i ei tønne, bredbeint"               | Down Withywindle stream, an old tub a-straddling!”
 
 "Da gir jeg oterpelsen din til haugvetten å garve           | ‘I’ll give your otter-fell to the Barrow-wights. They’ll taw you!
@@ -162,38 +162,39 @@ Bål på kjøkkenpeisen brant, og velkomst dem besørget        | Fire in the ki
 Åmengs sønn bukket pent, hans døtre yndig neiet             | Maggot’s sons bowed at door, his daughters did they curtsy.
 Kona kom med krus til dem, tørste etter veien               | His wife brought tankards out for those that might be thirsty.
 Sanger og fortellinger, og dansen etter kveldsverd          | Songs they had and merry tales, the supping and the dancing;
-Åmeng om så kraftig at han nesten sprang sitt beltelær      | Goodman maggot there for all his belt was prancing,
+Åmeng opp så spenstig at han nesten sprang sitt beltelær    | Goodman maggot there for all his belt was prancing,
 Tom danset hallingdans, når han ikke supte                  | Tom did a hornpipe when he was not quaffing,
 Mor lo i Springalring med jentin' til de stupte             | Daughters did the Springle-ring, goodwife did the laughing.
 
-Da de andre gikk til ro, i høy, dun og gammen               | When others went to bed in hay, fern or feather,
+Da resten gikk til ro, i høy, dun og gammen                 | When others went to bed in hay, fern or feather,
 Like inn mot peiskroken, stakk de hoder sammen              | Close in the inglenook they laid their heads together,
 Gammel-Tom og Sølefot, skiftet alt som nytt er              | Old Tom and Muddy-feet, swapping all the tidings
 Fra Dyssehaug til Tårnåser: Til beins eller som rytter      | From Barrow-downs to Tower Hills: of walkings and of ridings;
 Om hveteaks og bygg, om våronn, høst og sorger              | Of wheat-ear and barley-corn, of sowing and of reaping;
-Rart nytt fra Bri, og prat ved smie, kvern og torget        | Queer tales from Bree, and talk at smithy, mill and cheaping;
-Rykter trærne hvisket stilt, sønnavind i lerken             | Rumours in whispering trees, south-wind in the larches,
-Høye menn ved vadstedet, vokter skrømt på heden             | Tall Watchers by the Ford, Shadows on the marches.
+Rart nytt fra Bri, og prat ved smie, kvern, på torget       | Queer tales from Bree, and talk at smithy, mill and cheaping;
+Rykter trærne hvisket stilt, sønnavind i selje              | Rumours in whispering trees, south-wind in the larches,
+Voktere ved Sarnavad, Skrømt ved grenseskjelet              | Tall Watchers by the Ford, Shadows on the marches.
 
-Old Maggot slept at last in chair beside the embers.
-Ere dawn Tom was gone: as dreams one half remembers,
-Some merry, some sad, and some of hidden warning.
-None heard the door unlocked: a shower of rain at morning
-His footprints washed away, at Mithe left no traces,
-At Hays-end they heard no song nor sound of heavy paces.
+Gamle Åmeng sov til slutt, glør på peisen tindret           | Old Maggot slept at last in chair beside the embers.
+Før gryet gikk Tom: Som drøm en halvt erindrer,             | Ere dawn Tom was gone: as dreams one half remembers,
+Om glede, om tap, og varsler skjult om sorger.              | Some merry, some sad, and some of hidden warning.
+Ingen hørte døra slå, en regnskur utpå morgenen             | None heard the door unlocked: a shower of rain at morning
+Vasket alle far vekk, ved Hekken var helt sporløst          | His footprints washed away, at Mithe left no traces,
+Ingen hørte tunge steg, ei heller Toms tenor-røst           | At Hays-end they heard no song nor sound of heavy paces.
 
-Three days his boat lay by the hythe at Grindwall,
-And then one morn was gone back up Withywindle.
-Otter-folk, hobbits said, came by night and loosened her,
-Dragged her over weir, and up stream they pushed her.
+Tre dager båten lå, ved bryggene ved Grindgard              | Three days his boat lay by the hythe at Grindwall,
+Så en morgen var den seilt, opp Vidjuvingla                 | And then one morn was gone back up Withywindle.
+Oterne, sa folk, om natten løste trossen                    | Otter-folk, hobbits said, came by night and loosened her,
+Opp strømmen dyttet båten, dro den over fossen              | Dragged her over weir, and up stream they pushed her.
 
-Out of Elvet-isle Old Swan came sailing,
-in beak took her painter up in the water trailing,
-drew her proudly on, otters swam beside her;
-round old Willow-man's crooked roots to guide her
-the King’s fisher perched on bow, on thwart the wren was singing,
-merrily the cockle-boat homeward they were bringing.
-To Tom’s creek they came at last. Otter lad said ‘Whish now!
-What coot without his legs, or a finless fish now?’
-O! silly-sallow-willow-stream! The oars they’d left behind them!
-Long they lay at Grindwall hythe for Tom to come and find them.
+Ut fra Eltreøy, Gamle Svan stevnet                          | Out of Elvet-isle Old Swan came sailing,
+Bak båten tampen hang, tok den opp i nebbet                 | in beak took her painter up in the water trailing,
+Trakk båten stolt frem, oteren fløt i leien;                | drew her proudly on, otters swam beside her;
+Rundt Gamle Pilemanns røtter, viste veien                   | round old Willow-man's crooked roots to guide her
+Kongsfiskeren satt i bau, og på tiljen sammen               | the King’s fisher perched on bow, on thwart the wren was singing,
+muntert Pilesmutten sang, hjem de bragte prammen            | merrily the cockle-boat homeward they were bringing.
+
+Til Toms bekk de kom til slutt. Otergutt sa "Husk nå!"      | To Tom’s creek they came at last. Otter lad said ‘Whish now!
+Hva er sothøns uten bein, og finneløse fisk nå?"            | What coot without his legs, or a finless fish now?’
+Å pilekratt og vindelstrøm! Årene var gjenglemt             | O! silly-sallow-willow-stream! The oars they’d left behind them!
+Langt de lå ved Grindgardsvær, før Tom fant dem vekkgjemt   | Long they lay at Grindwall hythe for Tom to come and find them.
