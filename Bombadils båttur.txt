@@ -121,7 +121,7 @@ Tre piler i din hatt! Vi er ikke redde!                     | Three arrows in yo
 Hvor tar du veien fatt? Vil du ha øl? Dessverre:            | Where would you go now? If for beer you’re making,
 Det er ei tønner dype nok for deg i hele Kjerret"           | The barrels ain’t deep enough in Breredon for your slaking!’
 
-"Forbi over Brennvina, langs Syslebekk går kallet,          | ‘Away over Brandywine by Shirebourn I’ll be going,
+"Forbi over Brennvina, mot Syslebekk går kallet,            | ‘Away over Brandywine by Shirebourn I’ll be going,
 Men alt for sterk er strømmen her for dette nøtteskallet    | but too swift for a cockle-boat the river now is flowing
 Signe vil jeg småfolket, tok de meg med i prammen           | I’d bless little folk that took me in their wherry,
 Gi dem mang en fager kveld, og morgen glad på trammen."     | Wish them evenings fair and many mornings merry.’
