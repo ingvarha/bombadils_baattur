@@ -45,8 +45,8 @@ Jeg ror dit en og annen kveld, og møter gode venner"        | kind at the days 
 "Hils ned til slekta mi, og ta med bud tilbake              | ‘Take word to my kin, bring me back their tidings!
 Gi meg nytt om dype høler der hvor fisk vil vake"           | Tell me of diving pools and fishes’ hidings!
 
-"Nei, nå", sa Bombadil, "jeg skal bare ro derhen            | ‘Nay then’, said Bombadil, ‘I am only rowing
-bare kjenne elvens duft, ikke løpe ærend"                   |  just to smell the water like, not on errands going.’
+"Nei, nå", sa Bombadil, "jeg ror bare derhen                | ‘Nay then’, said Bombadil, ‘I am only rowing
+for å  kjenne elvens lukt, ikke løpe ærend"                 |  just to smell the water like, not on errands going.’
 
 "Tvii-fi! Tøffe Tom! Pass at du ei går under                | ‘Tee hee! Cocky Tom! Mind your tub don’t founder!
 Se opp for pilekratt, og skam på dem som grunner"           | Look out for willow-shags! I’d laugh to see you flounder’.
@@ -106,23 +106,23 @@ Duppet som en flaskekork, helt til Grindgards bryggevær.    | Bobbing like a bo
 
 "Hoi! Her er Skogens Tom, med bukkeskjegg på tverre!"       | ‘Hoy! Here’s Woodman Tom with his billy-beard on!’
 lo alt småfolket fra Hekkenden og Kjerret.                  | laughed all the little folk of hays-end and Breredon.
-Akt deg Tom! Vi skyter deg, lett med våre piler             | ‘Ware, Tom! We’ll shoot you dead with our bows and arrows!
+Akt, Tom! Vi skyter deg, lett med våre piler                | ‘Ware, Tom! We’ll shoot you dead with our bows and arrows!
 Ei får skogfolk eller skrømt, som i haug hviler             | We don’t let Forest-folk nor bogies from the Barrows
 krysse over Brennvina i nøtteskall eller ferge              | cross over Brandywine by cockle-boat nor ferry’.
 "Fy, små tjukkaser! Dere får ei terge!                      | ‘Fie, little fatbellies! Don’t ye make so merry!
 
 Jeg har sett hobbit-folk gjemme seg i huler                 | I’ve seen hobbit-folk digging holes to hide ‘em,
-Livredd om en geitebukk eller, grevling på dem lurer        | Frightened if a horny goat or a badger eyed ‘em,
+Livredd om en geitebukk eller, grevling på dem skuler       | Frightened if a horny goat or a badger eyed ‘em,
 skremt opp av månestråler, redd for egen skygge             | afeared of the moony-beams, their own shadows shunning
 Jeg pusser orker på dem: Ikke føl for trygge!"              | I’ll call the orcs on you: that’ll send you running!’
 
-"Rop du bare, Skogmann Tom. Snakk til du mister skjegget.   | ‘You may call, Woodman Tom. And you can talk your beard off.
+"Rop du, Skogmann Tom. Til du mister skjegget.              | ‘You may call, Woodman Tom. And you can talk your beard off.
 Tre piler i din hatt! Vi er ikke redde!                     | Three arrows in your hat! You we’re not afeared of!
 Hvor tar du veien fatt? Vil du ha øl? Dessverre:            | Where would you go now? If for beer you’re making,
 Det er ei tønner dype nok for deg i hele Kjerret"           | The barrels ain’t deep enough in Breredon for your slaking!’
 
 "Forbi over Brennvina, mot Syslebekk går kallet,            | ‘Away over Brandywine by Shirebourn I’ll be going,
-Men alt for sterk er strømmen her for dette nøtteskallet    | but too swift for a cockle-boat the river now is flowing
+Men for sterk er strømmen her for dette nøtteskallet        | but too swift for a cockle-boat the river now is flowing
 Signe vil jeg småfolket, tok de meg med i prammen           | I’d bless little folk that took me in their wherry,
 Gi dem mang en fager kveld, og morgen glad på trammen."     | Wish them evenings fair and many mornings merry.’
 
@@ -179,7 +179,7 @@ Gamle Åmeng sov til slutt, glør på peisen tindret           | Old Maggot slep
 Før gryet gikk Tom: Som drøm en halvt erindrer,             | Ere dawn Tom was gone: as dreams one half remembers,
 Om glede, om tap, og varsler skjult om sorger.              | Some merry, some sad, and some of hidden warning.
 Ingen hørte døra slå, en regnskur utpå morgenen             | None heard the door unlocked: a shower of rain at morning
-Vasket alle far vekk, Hekkenden var sporløs                 | His footprints washed away, at Mithe left no traces,
+Vasket alle fâr vekk, Hekkenden var sporløs                 | His footprints washed away, at Mithe left no traces,
 Ingen hørte tunge steg, ei heller Toms tenor-røst           | At Hays-end they heard no song nor sound of heavy paces.
 
 Tre dager båten lå, ved bryggene ved Grindgard              | Three days his boat lay by the hythe at Grindwall,
