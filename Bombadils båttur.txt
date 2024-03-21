@@ -8,8 +8,8 @@ Bombadils båttur
 
 Høsten kledde seg i brunt, Vestavinden kalte                | The old year was turning brown; the West Wind was calling;
 Tom grep et bøkeløv mens det i skogen falt ned              | Tom caught a beechen leaf in the Forest falling.
-"Jeg fanget meg en lykkedag, sendt til meg av blesten!      | ‘I’ve caught a happy day blown me by the breezes!
-Hvorfor bi til neste år? Jeg starter denne festen.          | Why wait till morrow-year? I’ll take it when me pleases.
+"Jeg fikk en lykkedag, sendt til meg av blesten!            | ‘I’ve caught a happy day blown me by the breezes!
+Hvi bi til neste år? Jeg starter denne festen.              | Why wait till morrow-year? I’ll take it when me pleases.
 Fikser båten straks i dag, drar dit lykken rømmer           | This day I’ll mend my boat and journey as it chances
 Vest ned Vingel-strøm, følger mine drømmer!"                | West down the withy-stream, following my fancies!’
 
@@ -35,9 +35,9 @@ gjennom siv og pilekratt, under henge-or, frem              | through reed and s
 så ned elven mens han sang: "Pilemann du dumme,             | then down the river went singing: ‘Silly-sallow,
 flyt nå Vidjuvingel-strøm, over dyp og grunne"              | Flow withy-willow-stream over deep and shallow!
 
-"Tviii! Tom Bombadil! Hvor er du ror hen,                   | ‘Whee! Tom Bombadil! Whither be you going,
+"Tuiii! Tom Bombadil! Hvor er du ror hen,                   | ‘Whee! Tom Bombadil! Whither be you going,
 dupper i et nøtteskall, nedad elven hvorhen?"               | bobbing in a cockle-boat, down the river rowing?’
-"Kanskje ned til Brennvina, meg Vidjuvingla sender          | ́Maybe to Brandywine along the Withywindle;
+"Kanskje til Brennvina, meg Vidjuvingla sender              | ́Maybe to Brandywine along the Withywindle;
 kanskje noen kjente der et peisbål for meg tenner           | maybe friends of mine fire for me will kindle
 Sønnafor' ved Hekkenden. Småfolk der jeg kjenner            | down by the Hays-end. Little folk I know there,
 Jeg ror dit en og annen kveld, og møter gode venner"        | kind at the days end. Now and then I go there.’
@@ -48,11 +48,11 @@ Gi meg nytt om dype høler der hvor fisk vil vake"           | Tell me of diving
 "Nei, nå", sa Bombadil, "jeg ror bare derhen                | ‘Nay then’, said Bombadil, ‘I am only rowing
 for å  kjenne elvens lukt, ikke løpe ærend"                 |  just to smell the water like, not on errands going.’
 
-"Tvii-fi! Tøffe Tom! Pass at du ei går under                | ‘Tee hee! Cocky Tom! Mind your tub don’t founder!
+"Tuii-fii! Tøffe Tom! Pass at du ei går under               | ‘Tee hee! Cocky Tom! Mind your tub don’t founder!
 Se opp for pilekratt, og skam på dem som grunner"           | Look out for willow-shags! I’d laugh to see you flounder’.
 
-"Hysj på deg, du Isfugl blå! Gi ønsket ditt til skjæra!     | ‘Talk less, Fisher Blue! Keep your kindly wishes!
-Fly nå vekk og rens din drakt, med fiskebein gre fjæra!     | Fly off and preen yourself with the bones of fishes!
+"Ti still, Isfugl blå! Gi ønsket ditt til skjæra!           | ‘Talk less, Fisher Blue! Keep your kindly wishes!
+Fly vekk og rens din drakt, med fiskebein gre fjæra!        | Fly off and preen yourself with the bones of fishes!
 Du er stilig kar på kvist, men hjemme uflidd loffer         | Gay lord on your bough, at home a dirty varlet
 Storslått ildrød vest på bryst, men rot i alle skuffer      | Living in a sloven house, though your basket be scarlet.
 Du har vel hørt at isfuglnebb, som henger slapt i blesten   | I’ve heard of fisher-birds beak in air a-dangling
@@ -68,9 +68,9 @@ stakk den i sin høye hatt, slapp gamle-fjæra under          | He stuck it in h
 Ringer rundt om båten slo, bobler sprakk og kokte           | Rings swirled round his boat, he saw the bubbles quiver.
 Tom slo med åra "smakk!" på skyggene som buktet             | Tom slapped his oar, smack! at a shadow in the river.
 "Husj! Tom Bombadil! Når så jeg sist den luggen?            | ‘Hoosh! Tom Bombadil! ‘Tis long since last I met you.
-Blitt en båtmanns-skipper, hæ? Pass på, nå skal jeg rugge'n | Turned water-boatman, eh? What if I upset you?’
+Blitt båtmanns-skipper, hæ? Pass på, nå skal jeg rugge'n    | Turned water-boatman, eh? What if I upset you?’
 
-"Jaså? Vel, Bartegutt, da red jeg deg deg ned elven         | ‘What? Why, Whisker-lad, I’d ride you down the river.
+"Nå? Vel, Bartegutt, da red jeg deg deg ned elven           | ‘What? Why, Whisker-lad, I’d ride you down the river.
 Lugger deg din svinepels, så fikk du store-skjelven"        | My fingers on your back would set your hide a-shiver.’
 
 "Psssj, Tom Bombadil, Jeg sier det til mutter;              | ‘Pish, Tom Bombadil! I’ll go and tell my mother;
@@ -78,7 +78,7 @@ Roper hele slekta inn, far og søster, brutter!              | “Call all our k
 'Stakkars Tom, nå er'n blitt sprø, som sothøne med trebein: | Tom’s gone mad as a coot with wooden legs: he is paddling
 Padler ned Vingelstrøm i ei tønne, bredbeint"               | Down Withywindle stream, an old tub a-straddling!”
 
-"Da gir jeg oterpelsen din til haugvetten å garve           | ‘I’ll give your otter-fell to the Barrow-wights. They’ll taw you!
+"Jeg gir oterpelsen din til haugvetten å garve              | ‘I’ll give your otter-fell to the Barrow-wights. They’ll taw you!
 og dynke den i gullringer, så gamlemor kan skarve           | Then smother you in gold-rings! Your mother if she saw you,
 kjenne egen otergutt, om bare enn på barten                 | She’d never know her son, unless ‘twas by a whisker.
 Nei, ert du ikke gamle Tom, før du har fått opp farten"     | Nay, don’t tease old Tom, until you be far brisker!’
@@ -88,12 +88,12 @@ en salve elvevann på Tom, og rugget båten kraftig           | over Tom’s hat
 dukket under kjølen og, ved bredden lå og vørte             | dived down under it, and by the bank lay peering,
 til Toms muntre sang drev bort, og oteren ikke hørte        | till Tom’s merry song faded out of hearing.
 
-Gamle Svan av Eltreøy seilte stolt til siden                | Old Swan of Elvet-isle sailed past him proudly,
+Gamle Svan av Eltrøy seilte stolt til siden                 | Old Swan of Elvet-isle sailed past him proudly,
 Sendte Tom et dystert blikk, snøftet hele tiden             | Gave Tom a black look, snorted at him loudly.
-Tom lo: "Du gamle svanefar, savner du ei fjær litt?         | Tom laughed: ‘You old cob, do you miss your feather?
-Gi meg så en ny en da! Den gamle var blitt værbitt          | Give me a new one then! The old was worn by weather.
-Om du og sa noen pene ord, så ville jeg deg prise           | Could you speak a fair word, I would love you dearer:
-men fra din lange hals hovmodig snøfter du din vise         | Long necks and dumb throat, but a haughty sneerer!
+Tom lo: "Gamlefar, savner du ei fjær litt?                  | Tom laughed: ‘You old cob, do you miss your feather?
+Gi meg en ny en da! Den gamle var blitt værbitt             | Give me a new one then! The old was worn by weather.
+Om du og sa noen pene ord, så ville jeg deg prise,          | Could you speak a fair word, I would love you dearer:
+men lang hals, hovent snøft, det er all din vise            | Long necks and dumb throat, but a haughty sneerer!
 Kommer kongen atter tar han deg og dine venner              | If one day the king returns, in upping he may take you,
 du ringere en herre blir, han nebbet merkebrenner           | Brand your yellow bill, and less lordly make you!’
 Gammelsvanen løftet vinger, hveste, padlet fortere          | Old Swan huffed his wings, hissed, and paddled faster;
@@ -111,8 +111,8 @@ Ei får skogfolk eller skrømt, som i haug hviler             | We don’t let F
 krysse over Brennvina i nøtteskall eller ferge              | cross over Brandywine by cockle-boat nor ferry’.
 "Fy, små tjukkaser! Dere får ei terge!                      | ‘Fie, little fatbellies! Don’t ye make so merry!
 
-Jeg har sett hobbit-folk gjemme seg i huler                 | I’ve seen hobbit-folk digging holes to hide ‘em,
-Livredd om en geitebukk eller, grevling på dem skuler       | Frightened if a horny goat or a badger eyed ‘em,
+Jeg vet hobbit-folk gjemmer seg i huler                     | I’ve seen hobbit-folk digging holes to hide ‘em,
+livredd om en geit eller grevling på dem skuler             | Frightened if a horny goat or a badger eyed ‘em,
 skremt opp av månestråler, redd for egen skygge             | afeared of the moony-beams, their own shadows shunning
 Jeg pusser orker på dem: Ikke føl for trygge!"              | I’ll call the orcs on you: that’ll send you running!’
 
